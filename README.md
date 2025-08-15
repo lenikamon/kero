@@ -1,2 +1,6 @@
 # kero
 The odin project process ...
+
+Index.......
+° Notes
+° 
